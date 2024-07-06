@@ -1,13 +1,6 @@
 # College Enquiry Chatbot #
 
-<br>
 
-![](https://img.shields.io/github/forks/Candida18/College-Enquiry-Chatbot?style=for-the-badge) &emsp; &emsp;
-![](https://img.shields.io/github/stars/Candida18/College-Enquiry-Chatbot?style=for-the-badge) &emsp; &emsp;
-![](https://img.shields.io/github/issues/Candida18/College-Enquiry-Chatbot?style=for-the-badge) &emsp; &emsp;
-![](https://img.shields.io/github/license/Candida18/College-Enquiry-Chatbot?style=for-the-badge) &emsp; &emsp;
-
-<br>
 
 ## ABSTRACT 
 
@@ -67,52 +60,6 @@
 `python app.py runserver`
 
 <br>
-
-## RESULTS : 
-<ol>
-<h3> <li>  <b> Register Page : </b></h3>
-     <p align="left"> 
-         <kbd><img src="https://github.com/Candida18/College-Enquiry-Chatbot/blob/main/CRCE%20Bot/Images_ss/register.png" alt="register" /> </kbd>
-      </p>
-  </li>
-  
-   <h3> <li>  <b> Login Page : </b></h3>
-     <p align="left"> 
-         <kbd><img src="https://github.com/Candida18/College-Enquiry-Chatbot/blob/main/CRCE%20Bot/Images_ss/login.png" alt="login" /> </kbd>
-      </p>
-  </li>
-  
- <h3>   <li> <b> Forgot Password Page : </b></h3>
-     <p align="left"> 
-         <kbd><img src="https://github.com/Candida18/College-Enquiry-Chatbot/blob/main/CRCE%20Bot/Images_ss/forgot_password.png" alt="forgot_password" /> </kbd>
-      </p>
-  </li>
-  
-  
- <h3>  <li>  <b> Chatbot - Default Screen : </b></h3>
-     <p align="left"> 
-         <kbd><img src="https://github.com/Candida18/College-Enquiry-Chatbot/blob/main/CRCE%20Bot/Images_ss/default_screen_chatbot.png" alt="default_screen_chatbot" /> </kbd>
-      </p>
-  </li>
-  
-  <h3> <li>  <b> Chatbot - Query : </b></h3>
-     <p align="left"> 
-         <kbd><img src="https://github.com/Candida18/College-Enquiry-Chatbot/blob/main/CRCE%20Bot/Images_ss/chatbot_query_2.png" alt="chatbot_query_2" /> </kbd>
-      </p>
-  </li>
-  
- <h3>  <li>  <b> Chatbot - About Us : </b></h3>
-     <p align="left"> 
-         <kbd><img src="https://github.com/Candida18/College-Enquiry-Chatbot/blob/main/CRCE%20Bot/Images_ss/about_us.png" alt="about_us" /> </kbd>
-      </p>
-  </li>
-  
-  <h3>  <li> <b> Chatbot - Suggestion Box : </b></h3>
-     <p align="left"> 
-         <kbd><img src="https://github.com/Candida18/College-Enquiry-Chatbot/blob/main/CRCE%20Bot/Images_ss/suggestion_box.png" alt="suggestion_box" /> </kbd>
-      </p>
-  </li>
-  </ol>
 
 
 
